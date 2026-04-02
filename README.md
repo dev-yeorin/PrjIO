@@ -2,6 +2,7 @@
 
 ## 파일처리
 1. text file
- .txt,
+ 	.txt, .csv, .java, .xml, .html ...
  
- 2. 
+ 2. Binary File
+ 	.exe, .class, .png, .mp3, .mp4 ...
